@@ -1,0 +1,96 @@
+{
+    "background": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-AAOWzD6wjDU%2FUAT83Qpxp4I%2FAAAAAAAAM-s%2Fu9BOkKeDD3s%2Fs1600%2FDuck2.jpg",
+    "color": "#F58FF7",
+    "width": "2",
+    "height": "2",
+    "questions": [
+        {
+            "question": "Wat is de eerste letter van het alfabet?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "A"
+                },
+                {
+                    "correct": false,
+                    "text": "B"
+                },
+                {
+                    "correct": false,
+                    "text": "C"
+                },
+                {
+                    "correct": false,
+                    "text": "D"
+                }
+            
+            ]
+        },
+        {
+            "question": "Wat is de eerste letter van het alfabet?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "A"
+                },
+                {
+                    "correct": false,
+                    "text": "B"
+                },
+                {
+                    "correct": false,
+                    "text": "C"
+                },
+                {
+                    "correct": false,
+                    "text": "D"
+                }
+            
+            ]
+        },
+        {
+            "question": "Wat is de eerste letter van het alfabet?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "A"
+                },
+                {
+                    "correct": false,
+                    "text": "B"
+                },
+                {
+                    "correct": false,
+                    "text": "C"
+                },
+                {
+                    "correct": false,
+                    "text": "D"
+                }
+            
+            ]
+        },
+        {
+            "question": "Wat is de eerste letter van het alfabet?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "A"
+                },
+                {
+                    "correct": false,
+                    "text": "B"
+                },
+                {
+                    "correct": false,
+                    "text": "C"
+                },
+                {
+                    "correct": false,
+                    "text": "D"
+                }
+            
+            ]
+        }
+    ]
+}
