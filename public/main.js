@@ -1,5 +1,7 @@
 import data from './data.json' assert { type: 'json' };
 
+
+
 $(document).ready(function () {
     console.log("ready!");
 
@@ -8,7 +10,7 @@ $(document).ready(function () {
     $("#wrong").hide();
 
     // add the bonus questions
-    let questions = data.questions;
+    var questions = data.questions;
     const totalBlocks = data.width * data.height;
 
     while (questions.length < totalBlocks) {
@@ -36,7 +38,7 @@ $(document).ready(function () {
 
 
     // adding the question blocks
-    for (let i = 0; i < totalBlocks; i++) {
+    for (var i = 0; i < totalBlocks; i++) {
         $("#container").append(
             $(`<div class='block' data-id='${i}'>`)
         );
@@ -140,7 +142,7 @@ function hideBlock(id) {
 
 // from https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
 function shuffleArray(array) {
-    let currentIndex = array.length, randomIndex;
+    var currentIndex = array.length, randomIndex;
 
     // While there remain elements to shuffle.
     while (currentIndex > 0) {

@@ -1,72 +1,447 @@
 {
-    "background": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-AAOWzD6wjDU%2FUAT83Qpxp4I%2FAAAAAAAAM-s%2Fu9BOkKeDD3s%2Fs1600%2FDuck2.jpg",
-    "color": "#F58FF7",
-    "active-color": "#944595",
-    "width": "2",
-    "height": "2",
+    "background": "https://i.ibb.co/C28Sxh0/qHiZ2Ur.jpg",
+    "color": "#FFF9AA",
+    "active-color": "#FF9566",
+    "width": "5",
+    "height": "5",
     "questions": [
         {
-            "question": "Wat is de eerste letter van het alfabet?",
+            "question": "De Egyptenaren hadden cat-mummies.",
             "answers": [
                 {
                     "correct": true,
-                    "text": "A"
+                    "text": "waar"
                 },
                 {
                     "correct": false,
-                    "text": "B"
-                },
-                {
-                    "correct": false,
-                    "text": "C"
-                },
-                {
-                    "correct": false,
-                    "text": "D"
+                    "text": "niet waar"
                 }
             
             ]
         },
+
         {
-            "question": "Wat is de eerste letter van het alfabet?",
+            "question": "Hoe heet een baby-kat?",
             "answers": [
                 {
                     "correct": true,
-                    "text": "A"
+                    "text": "kitten"
                 },
                 {
                     "correct": false,
-                    "text": "B"
+                    "text": "mitten"
                 },
                 {
                     "correct": false,
-                    "text": "C"
+                    "text": "puppy"
                 },
                 {
                     "correct": false,
-                    "text": "D"
+                    "text": "baby"
                 }
             
             ]
         },
+
         {
-            "question": "Wat is de eerste letter van het alfabet?",
+            "question": "Katten zijn zoogdieren.",
             "answers": [
                 {
                     "correct": true,
-                    "text": "A"
+                    "text": "waar"
                 },
                 {
                     "correct": false,
-                    "text": "B"
+                    "text": "niet waar"
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Hoe heet een vrouwelijke kat?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "poes"
                 },
                 {
                     "correct": false,
-                    "text": "C"
+                    "text": "vrouwtje"
                 },
                 {
                     "correct": false,
-                    "text": "D"
+                    "text": "poezin"
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Waarvoor gebruiken katten hun snorharen?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "om te voelen"
+                },
+                {
+                    "correct": false,
+                    "text": "om te ruiken"
+                },
+                {
+                    "correct": false,
+                    "text": "om te zien"
+                },
+                {
+                    "correct": false,
+                    "text": "om te horen"
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Hoe voelt de tong van een kat?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "ruw"
+                },
+                {
+                    "correct": false,
+                    "text": "zacht"
+                },
+                {
+                    "correct": false,
+                    "text": "glad"
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Welk dier is familie van de kat?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "leeuw"
+                },
+                {
+                    "correct": false,
+                    "text": "schildpad"
+                },
+                {
+                    "correct": false,
+                    "text": "vis"
+                },
+                {
+                    "correct": false,
+                    "text": "kip"
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Katten zijn vleeseters",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "waar"
+                },
+                {
+                    "correct": false,
+                    "text": "niet waar"
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Hoe jagen katten?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "alleen"
+                },
+                {
+                    "correct": false,
+                    "text": "in grote groepen"
+                },
+                {
+                    "correct": false,
+                    "text": "per twee"
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Wat is giftig voor een kat?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "chokolade"
+                },
+                {
+                    "correct": true,
+                    "text": "alcohol"
+                },
+                {
+                    "correct": false,
+                    "text": "vis"
+                },
+                {
+                    "correct": false,
+                    "text": "kip"
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Waarvoor gebruiken katten hun staart?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "voor hun evenwicht"
+                },
+                {
+                    "correct": true,
+                    "text": "om te tonen hoe ze zich voelen"
+                },
+                {
+                    "correct": false,
+                    "text": "om te slaan"
+                },
+                {
+                    "correct": false,
+                    "text": "om iets mee vast te grijpen"
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Katten kunnen ...",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "hun nagels intrekken."
+                },
+                {
+                    "correct": false,
+                    "text": "vliegen"
+                },
+                {
+                    "correct": false,
+                    "text": "nestjes van wel 20 kittens hebben."
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Hoe heet een nestje kittens?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "een worp"
+                },
+                {
+                    "correct": false,
+                    "text": "een huis"
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Katten moeten spelen want ...",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "dan blijven ze gezond."
+                },
+                {
+                    "correct": false,
+                    "text": "ze moeten niet spelen."
+                },
+                {
+                    "correct": true,
+                    "text": "dan worden ze niet te dik."
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Hoeveel ribben heeft een kat?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "13"
+                },
+                {
+                    "correct": false,
+                    "text": "2"
+                },
+                {
+                    "correct": false,
+                    "text": "30"
+                }
+            
+            ]
+        },
+
+        {
+            "question": "Welke katachtige is het snelste zoogdier op aarde?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "jaguar"
+                },
+                {
+                    "correct": false,
+                    "text": "nijlpaard"
+                },
+                {
+                    "correct": false,
+                    "text": "leeuw"
+                },
+                {
+                    "correct": false,
+                    "text": "kat"
+                }
+
+            
+            ]
+        },
+
+
+        {
+            "question": "Wat doet een kat als hij zich bedreigd voelt?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "zijn rug hoog maken"
+                },
+                {
+                    "correct": false,
+                    "text": "slapen"
+                },
+                {
+                    "correct": false,
+                    "text": "springen"
+                },
+                {
+                    "correct": false,
+                    "text": "neerliggen"
+                }
+
+            
+            ]
+        },
+
+        {
+            "question": "Als katten pas geboren zijn....",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "zijn hun oogjes nog dicht."
+                },
+                {
+                    "correct": false,
+                    "text": "hebben ze nog geen haar."
+                },
+                {
+                    "correct": false,
+                    "text": "kijken ze al goed rond."
+                }
+
+            
+            ]
+        },
+
+        {
+            "question": "Wat kunnen katten veel minder goed dan mensen?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "proeven"
+                },
+                {
+                    "correct": false,
+                    "text": "horen"
+                },
+                {
+                    "correct": false,
+                    "text": "ruiken"
+                },
+                {
+                    "correct": false,
+                    "text": "in het donker zien"
+                }
+
+            
+            ]
+        },
+
+        {
+            "question": "Wat is een Kattenquad?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "dat bestaat niet"
+                },
+                {
+                    "correct": false,
+                    "text": "een kat met 6 poten"
+                },
+                {
+                    "correct": false,
+                    "text": "een kattenziekte"
+                }
+
+            
+            ]
+        },
+
+
+{
+            "question": "Wanneer wast een kat zich?",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "Als ze tevreden is of pas heeft gegeten."
+                },
+                {
+                    "correct": false,
+                    "text": "Als ze bang is."
+                },
+                {
+                    "correct": false,
+                    "text": "Als ze moe is."
+                }
+
+            
+            ]
+        },
+
+        {
+            "question": "Katten hebben ...",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "een vacht"
+                },
+                {
+                    "correct": false,
+                    "text": "veren"
+                },
+                {
+                    "correct": false,
+                    "text": "schubben"
                 }
             
             ]
